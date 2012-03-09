@@ -1,0 +1,4 @@
+To install this theme:
+
+    copy Wombat ST2.mTheme to ~/Library/Application Support/Sublime Text 2/Packages/User
+    or go to Sublime Text 2 -> Preferences -> Browse Packages and copy Wombat ST2.mTheme in the User folder
